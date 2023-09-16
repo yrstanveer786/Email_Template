@@ -1,0 +1,2 @@
+# Email_Template
+RESPONSIVE EMAIL TEMPLATE
